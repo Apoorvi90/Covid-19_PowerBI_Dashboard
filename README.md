@@ -1,7 +1,7 @@
 # Covid-19_PowerBI_Dashboard
 This project presents an interactive COVID-19 analytics dashboard created using Microsoft Power BI. The dashboard visualizes the spread, recovery, and impact of COVID-19 using officially available case data from Indian states. It includes trend analysis, KPI measurement, geographical mapping, and comparison across different time periods.
 
-##🚀 Project Objectives
+## 🚀 Project Objectives
 
 1. To analyze COVID-19 case trends for different states in India.
 
@@ -13,7 +13,7 @@ This project presents an interactive COVID-19 analytics dashboard created using 
 
 5. To derive meaningful insights for understanding pandemic behaviour.
 
-##📂 Dataset Description
+## 📂 Dataset Description
 
 The project uses the following files:
 
@@ -23,7 +23,7 @@ The project uses the following files:
 
 3. case_time_series.csv 
 
-##📊 Power BI Visualizations Used
+## 📊 Power BI Visualizations Used
 
 Line Chart: Daily trends of Confirmed, Recovered, and Deceased cases.
 
@@ -51,7 +51,7 @@ State filter
 
 Monthly/Weekly period filter
 
-##🔍 Key Insights
+## 🔍 Key Insights
 
 Confirmed cases show a sharp rise during peak months.
 
@@ -61,7 +61,7 @@ Some states exhibit consistent high caseloads due to higher population density.
 
 Vaccination progress correlates with a reduction in daily confirmed cases.
 
-##🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates how Power BI can be used to effectively analyze time-series health data, create meaningful KPIs, and derive insights through interactive data visualizations.
 
