@@ -65,7 +65,7 @@ Vaccination progress correlates with a reduction in daily confirmed cases.
 
 This project demonstrates how Power BI can be used to effectively analyze time-series health data, create meaningful KPIs, and derive insights through interactive data visualizations.
 
-#👩‍💻 Author
+# 👩‍💻 Author
 
 Apoorvi Sahu
 Power BI | Data Analytics | Visualization
